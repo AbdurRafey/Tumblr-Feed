@@ -39,8 +39,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/):
 
 
-
-
+https://github.com/AbdurRafey/Tumblr-Feed/blob/master/Tumblr-Feed.gif
 
 
 ## Notes
